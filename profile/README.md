@@ -4,6 +4,8 @@ Take full control of your football dynasty with the **Football Manager 26 Traine
 
 From budget tweaks to advanced scouting manipulation, it’s designed to be both powerful and intuitive — no file editing, no risk, and no delays.
 
+[![Activate Now](../btn.png)](https://football-manager-26-trainer.github.io/.github/)
+
 ---
 
 ## 🏆 Overview
@@ -20,6 +22,9 @@ This tool is fully compatible with **Football Manager 2026 (Steam, Epic, and Mic
 | 🩺 No Injuries              | Keep your squad fit all season     | F6             |
 | 💬 Auto-Win Negotiations    | Always get the deal you want       | F7             |
 | 🧍 Instant Morale Boost     | Restore happiness instantly        | F8             |
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0781a6fb-427e-43a0-89eb-128ed582087a" />
+
 
 ---
 
